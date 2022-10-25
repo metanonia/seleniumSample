@@ -1,6 +1,6 @@
 # seleniumSample
 Selenium Sample
 
-##Prequirement
+## Prequirement
 Install WebDriver 
 - chromedriver
