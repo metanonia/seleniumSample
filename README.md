@@ -3,4 +3,4 @@ Selenium Sample
 
 ## Prequirement
 Install WebDriver 
-- chromedriver
+- chromedriver (https://chromedriver.chromium.org/downloads)
